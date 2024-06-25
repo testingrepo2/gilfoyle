@@ -24,7 +24,7 @@
     </a>
 </p>
 
-Gilfoyle is a web application from the [Dreamvo project](https://dreamvo.com) that runs a self-hosted media streaming server. Allowing you to easily implement media streaming in any application at any scale.
+Gilfoyle is a web application from the [Dreamvo project](https://dreamvo.com) that runs a self-hosted media streaming server. Allowing you to easily implement media streaming in any application at any scale. 
 
 It's written in Golang, mostly designed for [Kubernetes](http://kubernetes.io/) and runs as a single Linux binary with [PostgreSQL](https://www.postgresql.org/) and [RabbitMQ](https://www.rabbitmq.com/).
 
