@@ -63,7 +63,7 @@ It's a **Work In Progress**. As this project is very recent, it's under heavy de
 
 ## Design
 
-See [this document](DESIGN.md) for a high level design and goals.
+See [this document](DESIGN.md) for a high level design and goals. 
 
 ## Roadmap
 
